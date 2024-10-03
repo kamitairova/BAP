@@ -1,6 +1,3 @@
-
-
-
 def min_taxi(n, members):
     g_1 = 0
     g_2 = 0
